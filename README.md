@@ -1,17 +1,13 @@
-### **Hello** <img src="" width="30px">! 
+### **Hello** <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/wave.gif" width="30px">! 
 
-- 👂 Hi, I’m @nouzen-dev
+- 👂 Hi, I’m @nouzen-dev <img align="right" height="400" width="500" alt="Hello" src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/atwork.gif">
 - 👀 I’m interested in ML, NLP & 🐱 in the world 
 - 🌱 I’m currently learning ML & NLP techniques & knowledge + studying for my Masters in Data Science
 - ❤️ Coffee, 🎵, 🎄, dark mode & The Lord of the Rings
 - ⚡ Fields of interests: ML, NLP, UI/UX, product management
-- 🗼 Goal in 2023 - speed up my studies & work on more interesting project
-
+- 🗼 Goal in 2023 - speed up my studies & work on more interesting project 
 
 I was a consultant, business analyst & data analyst. I am a bit late to the party - I started using Github when I started my Masters studies in 2022. 
-
-< img src="https://raw.githubusercontent.comgithub.com/nouzen-dev/nouzen-dev/main/assets/atwork.gif">
-
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
