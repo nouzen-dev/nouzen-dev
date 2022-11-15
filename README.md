@@ -1,4 +1,4 @@
-### Hello 👋! 
+### **Hello** <img src="" width="30px">! 
 
 - 👂 Hi, I’m @nouzen-dev
 - 👀 I’m interested in ML, NLP & 🐱 in the world 
@@ -9,6 +9,10 @@
 
 
 I was a consultant, business analyst & data analyst. I am a bit late to the party - I started using Github when I started my Masters studies in 2022. 
+
+< img src="https://raw.githubusercontent.comgithub.com/nouzen-dev/nouzen-dev/main/assets/atwork.gif">
+
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -26,4 +30,3 @@ I was a consultant, business analyst & data analyst. I am a bit late to the part
 
 ![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=radical&show_icons=true)
 
-![Snake animation](https://github.com/nouzen-dev/nouzen-dev/blob/output/github-contribution-grid-snake.svg)
