@@ -1,8 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/nouzen-dev)
 
-<insert image>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=19&pause=1800&color=BEEDF7&vCenter=true&width=600&lines=Developer%2C+data+analyst%2C+BA%2C+consultant+%26+MSDS+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=19&pause=1800&color=BEEDF7&vCenter=true&width=600&lines=Developer%2C+data+analyst%2C+BA%2C+consultant+%26+MSDS+student" alt="Typing SVG" /></a>
 ## **Hello** <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/wave.gif" width="30px">! 
 
 ### About Me:
