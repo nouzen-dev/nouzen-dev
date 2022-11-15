@@ -29,7 +29,7 @@ I started working on personal projects when I started my Masters studies recentl
 
 
 ### 📑 Featured Repo:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nouzen-dev&repo=NLP_ML&theme=radical&show_owner=True)](https://github.com/nouzen-dev/kNLP_ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nouzen-dev&repo=NLP_ML&theme=radical&show_owner=True)](https://github.com/nouzen-dev/NLP_ML)
 
 
 ### 📺 Overview:
