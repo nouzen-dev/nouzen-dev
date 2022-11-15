@@ -6,7 +6,7 @@
 ## **Hello** <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/wave.gif" width="30px">! 
 
 ### About Me:
-- 👂 I’m @nouzen-dev <img align="right" height="400" width="500" alt="Hello" src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/atwork.gif">
+- 👂 I’m @nouzen-dev <img align="right" height="350" width="500" alt="Hello" src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/atwork.gif">
 - 👀 I’m interested in ML, NLP & 🐱
 - 🌱 I’m currently learning ML & NLP techniques & knowledge + studying for my Masters in Data Science
 - ❤️ Coffee, music, 🎄, dark mode & The Lord of the Rings
