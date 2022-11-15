@@ -1,13 +1,19 @@
-### **Hello** <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/wave.gif" width="30px">! 
+![Profile views](https://gpvc.arturio.dev/nouzen-dev)
 
+<insert image>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=19&pause=1800&color=BEEDF7&vCenter=true&width=600&lines=Developer%2C+data+analyst%2C+BA%2C+consultant+%26+MSDS+student" alt="Typing SVG" /></a>
+## **Hello** <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/wave.gif" width="30px">! 
+
+#### About Me:
 - 👂 Hi, I’m @nouzen-dev <img align="right" height="400" width="500" alt="Hello" src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/atwork.gif">
-- 👀 I’m interested in ML, NLP & 🐱 in the world 
+- 👀 I’m interested in ML, NLP & 🐱
 - 🌱 I’m currently learning ML & NLP techniques & knowledge + studying for my Masters in Data Science
-- ❤️ Coffee, 🎵, 🎄, dark mode & The Lord of the Rings
-- ⚡ Fields of interests: ML, NLP, UI/UX, product management
-- 🗼 Goal in 2023 - speed up my studies & work on more interesting project 
+- ❤️ Coffee, music, 🎄, dark mode & The Lord of the Rings
+- ⚡ Fields of interests: ML, NLP & product management
+- 🗼 Goal in 2023 - speed up my studies & work on more interesting projects 
 
-I was a consultant, business analyst & data analyst. I am a bit late to the party - I started using Github when I started my Masters studies in 2022. 
+I am a bit late to the party - I started using Github when I started my Masters studies in 2022. 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,7 +28,18 @@ I was a consultant, business analyst & data analyst. I am a bit late to the part
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&layout=compact&theme=radical)](https://github.com/nuozen-dev/github-readme-stats) 
+#### 📑 Featured Projects:
 
-![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=radical&show_icons=true)
 
+
+#### 📺 Github Profile Stats:
+[![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&layout=compact&theme=merko)](https://github.com/nuozen-dev/github-readme-stats) 
+
+![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=radical&show_icons=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouzen-dev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+
+
+
+<details>
+  <summary><b> 🙊 A little laughter for you </b></summary>
+  <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
+</details>
