@@ -6,14 +6,14 @@
 ## **Hello** <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/wave.gif" width="30px">! 
 
 ### About Me:
-- 👂 Hi, I’m @nouzen-dev <img align="right" height="400" width="500" alt="Hello" src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/atwork.gif">
+- 👂 I’m @nouzen-dev <img align="right" height="400" width="500" alt="Hello" src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/atwork.gif">
 - 👀 I’m interested in ML, NLP & 🐱
 - 🌱 I’m currently learning ML & NLP techniques & knowledge + studying for my Masters in Data Science
 - ❤️ Coffee, music, 🎄, dark mode & The Lord of the Rings
 - ⚡ Fields of interests: ML, NLP & product management
 - 🗼 Goal in 2023 - speed up my studies & work on more interesting projects 
 
-I am a bit late to the party - I started using Github when I started my Masters studies in 2022. 
+I started working on personal projects when I started my Masters studies recently. 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,8 +38,7 @@ I am a bit late to the party - I started using Github when I started my Masters 
 ![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=tokyonight&show_icons=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouzen-dev&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
 
 
-
 <details>
-  <summary><b> 🙊 A little laughter for you </b></summary>
-  <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
+  <summary><b> 🎽 My motto in life: </b></summary>
+  <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/dino.gif"/>
 </details>
