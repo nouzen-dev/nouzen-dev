@@ -28,14 +28,14 @@ I am a bit late to the party - I started using Github when I started my Masters 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-#### 📑 Featured Projects:
+#### 📑 Featured Repo:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nouzen-dev&repo=NLP_ML&theme=radical&show_owner=True)](https://github.com/nouzen-dev/kNLP_ML)
 
 
+#### 📺 Stats:
+[![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/nuozen-dev/github-readme-stats) 
 
-#### 📺 Github Profile Stats:
-[![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&layout=compact&theme=merko)](https://github.com/nuozen-dev/github-readme-stats) 
-
-![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=radical&show_icons=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouzen-dev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=tokyonight&show_icons=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouzen-dev&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
 
 
 
