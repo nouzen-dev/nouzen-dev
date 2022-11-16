@@ -36,7 +36,8 @@ I started working on personal projects in preparation for my recent Masters stud
 ### ✒️ Overview:
 [![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=True)](https://github.com/nuozen-dev/github-readme-stats) 
 
-![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=tokyonight&show_icons=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouzen-dev&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
+![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=tokyonight&show_icons=true) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nouzen-dev&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 [![Activity graph](https://activity-graph.herokuapp.com/graph?username=nouzen-dev&theme=merko&hide_title=true&hide_border=true)](https://github.com/nouzen-dev/github-readme-activity-graph)
