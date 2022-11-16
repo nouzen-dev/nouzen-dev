@@ -29,13 +29,16 @@ I started working on personal projects in preparation for my recent Masters stud
 
 
 ### 📑 Featured Repo:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nouzen-dev&repo=NLP_ML&theme=radical&show_owner=True)](https://github.com/nouzen-dev/NLP_ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nouzen-dev&repo=NLP_ML&theme=radical&show_owner=True&hide_border=True)](https://github.com/nouzen-dev/NLP_ML)
 
 
 ### ✒️ Overview:
-[![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/nuozen-dev/github-readme-stats) 
+[![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&layout=compact&theme=tokyonight&hide_border=True)](https://github.com/nuozen-dev/github-readme-stats) 
 
 ![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=tokyonight&show_icons=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouzen-dev&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
+
+
+[![Activity graph](https://activity-graph.herokuapp.com/graph?username=nouzen-dev&theme=merko&hide_title=true&hide_border=true)](https://github.com/nouzen-dev/github-readme-activity-graph)
 
 
 <details>
