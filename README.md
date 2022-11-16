@@ -3,7 +3,7 @@
 ![](https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/header.jpg) 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=19&pause=1800&color=BEEDF7&vCenter=true&width=800&lines=ex-Developer%2C+ex-data+analyst%2C+ex-BA%2C+ex-consultant+%26+now-MSDS+student" alt="Typing SVG" /></a>
-## **Hello** <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/wave.gif" width="30px">! 
+## **Hello**! 
 
 ### About Me:
 - 👂 I’m @nouzen-dev <img align="right" height="350" width="500" alt="Hello" src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/atwork.gif">
@@ -33,7 +33,7 @@ I started working on personal projects in preparation for my recent Masters stud
 
 
 ### ✒️ Overview:
-[![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&layout=compact&theme=tokyonight&hide_border=True)](https://github.com/nuozen-dev/github-readme-stats) 
+[![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=True)](https://github.com/nuozen-dev/github-readme-stats) 
 
 ![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=tokyonight&show_icons=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouzen-dev&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
 
@@ -43,5 +43,5 @@ I started working on personal projects in preparation for my recent Masters stud
 
 <details>
   <summary><b> 🚵‍♂️ My motto in life: </b></summary>
-  <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/dino.gif"/>
+  <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/dino.gif" width="700px"/>
 </details>
