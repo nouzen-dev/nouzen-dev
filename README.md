@@ -2,7 +2,7 @@
 
 ![](https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/header.jpg) 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=19&pause=1800&color=BEEDF7&vCenter=true&width=600&lines=ex-Developer%2C+ex-data+analyst%2C+ex-BA%2C+ex-consultant+%26+now-MSDS+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=19&pause=1800&color=BEEDF7&vCenter=true&width=800&lines=ex-Developer%2C+ex-data+analyst%2C+ex-BA%2C+ex-consultant+%26+now-MSDS+student" alt="Typing SVG" /></a>
 ## **Hello** <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/wave.gif" width="30px">! 
 
 ### About Me:
@@ -11,9 +11,9 @@
 - 🌱 I’m currently learning ML & NLP techniques & knowledge + studying for my Masters in Data Science
 - ❤️ Coffee, music, 🎄, dark mode & The Lord of the Rings
 - ⚡ Fields of interests: ML, NLP & product management
-- 🗼 Goal in 2023 - speed up my studies & work on more interesting projects 
+- 🗼 Goal in 2023 - further upskilling & work on more interesting projects 
 
-I started working on personal projects when I started my Masters studies recently. I am looking forward to furthering my Data Science journey.
+I started working on personal projects in preparation for my recent Masters studies. I am looking forward to furthering my Data Science journey.
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,13 +32,13 @@ I started working on personal projects when I started my Masters studies recentl
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nouzen-dev&repo=NLP_ML&theme=radical&show_owner=True)](https://github.com/nouzen-dev/NLP_ML)
 
 
-### 📺 Overview:
+### ✒️ Overview:
 [![Top Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=nouzen-dev&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/nuozen-dev/github-readme-stats) 
 
 ![Stats:](https://github-readme-stats.vercel.app/api?username=nouzen-dev&count_private=true&theme=tokyonight&show_icons=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouzen-dev&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
 
 
 <details>
-  <summary><b> 🎽 My motto in life: </b></summary>
+  <summary><b> 🚵‍♂️ My motto in life: </b></summary>
   <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/dino.gif"/>
 </details>
