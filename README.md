@@ -7,13 +7,13 @@
 
 ### About Me:
 - 👂 I’m @nouzen-dev <img align="right" height="350" width="500" alt="Hello" src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/atwork.gif">
-- 👀 I’m interested in ML, NLP & 🐱
-- 🌱 I’m currently learning ML & NLP techniques & knowledge + studying for my Masters in Data Science
 - ❤️ Coffee, music, 🎄, dark mode & The Lord of the Rings
-- ⚡ Fields of interests: ML, NLP & product management
-- 🗼 Goal in 2023 - further upskilling & work on more interesting projects 
+- ⚡ I’m interested in ML, NLP, product management & 🐱
+- 👩‍💻 I am passionate about digitalization with seamless technology integration, data-driven decision making, & AI-powered analytics
+- 🌱 I’m currently learning ML & NLP techniques & knowledge + studying for my Masters in Data Science
+- 🗼 Goal in 2023 - further upskilling & work on more interesting projects
 
-I started working on personal projects in preparation for my recent Masters studies. I am looking forward to furthering my Data Science journey.
+I started working on personal projects in preparation for my recent Masters studies. I am looking forward to moving forward with more learning & re-learning in my Data Science journey, & hope to have an opportunity to meet new people & experiences on the journey of growth & self-expansion.
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,6 +25,7 @@ I started working on personal projects in preparation for my recent Masters stud
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
