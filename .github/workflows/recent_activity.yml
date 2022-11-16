@@ -4,7 +4,7 @@ with:
   filename: metrics.plugin.activity.svg
   token: ${{ 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 }}
   base: ""
-  plugin_activity: no
+  plugin_activity: yes
   plugin_activity_limit: 8
   plugin_activity_days: 14
   plugin_activity_filter: push, pr, fork, comment, ref/create, public
