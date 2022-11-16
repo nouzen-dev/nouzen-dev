@@ -43,5 +43,5 @@ I started working on personal projects in preparation for my recent Masters stud
 
 <details>
   <summary><b> 🚵‍♂️ My motto in life: </b></summary>
-  <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/dino.gif" width="700px"/>
+  <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/dino.gif" width="500px"/>
 </details>
