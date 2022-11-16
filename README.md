@@ -2,7 +2,7 @@
 
 ![](https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/header.jpg) 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=19&pause=1800&color=BEEDF7&vCenter=true&width=600&lines=Developer%2C+data+analyst%2C+BA%2C+consultant+%26+MSDS+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=19&pause=1800&color=BEEDF7&vCenter=true&width=600&lines=ex-Developer%2C+ex-data+analyst%2C+ex-BA%2C+ex-consultant+%26+now-MSDS+student" alt="Typing SVG" /></a>
 ## **Hello** <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/wave.gif" width="30px">! 
 
 ### About Me:
@@ -13,7 +13,7 @@
 - ⚡ Fields of interests: ML, NLP & product management
 - 🗼 Goal in 2023 - speed up my studies & work on more interesting projects 
 
-I started working on personal projects when I started my Masters studies recently. 
+I started working on personal projects when I started my Masters studies recently. I am looking forward to furthering my Data Science journey.
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
