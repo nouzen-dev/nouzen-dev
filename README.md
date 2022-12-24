@@ -9,11 +9,11 @@
 - 👂 I’m @nouzen-dev <img align="right" height="350" width="500" alt="Hello" src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/atwork.gif">
 - ❤️ Coffee, music, 🎄, dark mode & The Lord of the Rings
 - ⚡ I’m interested in BI, ML, NLP, product management & 🐱
-- 👩‍💻 I am passionate about digitalization with seamless technology integration, data-driven decision making, & AI-powered analytics
+- 👩‍💻 I am passionate about digitalization with seamless technology integration, analytics & data-driven decision making
 - 🌱 I’m currently learning ML & NLP techniques & knowledge + studying for my Masters in Data Science
 - 🗼 Goal in 2023 - further upskilling & work on more interesting projects
 
-I started working on personal projects in preparation for my recent Masters studies. I am looking forward to moving forward with more learning & re-learning in my Data Science journey, & hope to have an opportunity to meet new people & experiences on the journey of growth & self-expansion.
+I started working on personal projects in preparation for my recent Masters studies. I am looking forward to moving forward with more learning & re-learning in my product management journey, & hope to have an opportunity to meet new people & experiences on the journey of growth & self-expansion.
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
