@@ -41,9 +41,6 @@ I started working on personal projects in preparation for my recent Masters stud
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nouzen-dev&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-[//]: # [![Activity graph](https://activity-graph.herokuapp.com/graph?username=nouzen-dev&theme=merko&hide_title=true&hide_border=true)](https://github.com/nouzen-dev/github-readme-activity-graph)  
-
-
 <details>
   <summary><b> 🚵‍♂️ My motto in life: </b></summary>
   <img src="https://github.com/nouzen-dev/nouzen-dev/blob/main/assets/dino.gif" width="500px"/>
